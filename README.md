@@ -1,24 +1,6 @@
 # lab1
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Поліщук Андрій Валерійович
+КВ-02мп
+Лабораторна робота №1 "Розробка клієнтської частини веб додатка"
+https://docs.google.com/document/d/175tqnu2ASmq6v_R_3kpFeaqPYFfLxBvs0mTeJxqKEaA/edit?usp=sharing
