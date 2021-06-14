@@ -38,4 +38,13 @@
             left: 20px;
         }
     }
+
+    @media (max-width: 500px) {
+        .logo-text {
+            display: none;
+        }
+        .logo {
+            display: none;
+        }
+    }
 </style>

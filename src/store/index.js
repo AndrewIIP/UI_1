@@ -73,7 +73,7 @@ export default new Vuex.Store({
                 comments: [],
             }
         ], 4),
-        users: [new User(1,"John Walhart", new Date('03/25/1980'), "Male", "john.smle@gmail.com", "1234")],
+        users: [new User(1,"Andrew Polishchuk", new Date('03/25/1999'), "Male", "andrewpolishchuk@gmail.com", "1234")],
     },
     mutations: {
         FETCH_POST_BY_ID: (state, id) => {

@@ -1,8 +1,8 @@
 <template>
     <div class="blog">
-        <nav class="navbar navbar-expand-lg navbar-light justify-content-end">
+        <nav class="navbar navbar-expand-lg navbar-expand-sm navbar-light justify-content-end">
             <div>
-                <ul class="navbar-nav">
+                <ul class="navbar-nav ">
                     <li class="nav-item">
                         <router-link :to="{name: 'AddNewPost'}" class="nav-link pl-3 pr-5 nav-link-custom">
                             <img class="plus-img pr-2" src="../assets/open-iconic/plus.svg"/>
